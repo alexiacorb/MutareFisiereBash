@@ -3,3 +3,21 @@ Configurarea globala a utilizatorului și a email-ului pentru Git a fost realiza
 Repository-ul git este deja inițializat.
 Remote-ul pentru GitHub e configurat: https://github.com/alexiacorb/MutareFisiereBash
 Repository-ul este configurat corect pentru GitHub.
+[master b279094] Am adaugat fisierul out.log in Git
+ 1 file changed, 5 insertions(+)
+ create mode 100644 ProiectB/out.log
+Fisierul out.log a fost adăugat cu succes în Git si sincronizat cu GitHub.
+Se executa functia: mutare_fisier_local()
+Locatia destinatie /home/student/Desktop/modeltestso2 nu exista pe acest dispozitiv.
+Locatia destinatie /home/student/Desktop/modeltestso2 a fost creata cu succes.
+Fisierele au fost mutate cu succes in /home/student/Desktop/modeltestso2.
+Se executa functia: mutare_fisier_local()
+Locatia destinatie /home/student/Desktop/testare2 nu exista pe acest dispozitiv.
+Locatia destinatie /home/student/Desktop/testare2 a fost creata cu succes.
+Fisierele au fost mutate cu succes in /home/student/Desktop/testare2.
+Se executa functia: mutare_fisier_local()
+Locatia destinatie /home/student/Desktop/testare2 exista deja pe acest dispozitiv.
+Eroare la mutarea fisierelor în /home/student/Desktop/testare2.
+Se executa functia: mutare_fisier_local()
+Locatia destinatie /home/student/Desktop/testare2 exista deja pe acest dispozitiv.
+Eroare: sursa si destinatia sunt identice. Introduceti o destinatie diferita de sursa 
